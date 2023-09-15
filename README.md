@@ -1,4 +1,4 @@
-# Aplicativo Álcool ou Gasolina
+# Aplicativo Calcular IMC
 
 Aplicativo desenvolvido no Android Studio utilizando a linguagem Kotlin com o objetivo de realizar o cálculo do IMC (Índice de massa corporal) e informar se você está com um peso ideal.
 
